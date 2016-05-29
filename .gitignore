@@ -3,3 +3,4 @@
 *.log
 javacs-lab07/bin
 javacs-lab07/junit
+/bin/
